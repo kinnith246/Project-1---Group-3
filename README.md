@@ -1,5 +1,4 @@
 # Project-1---Group-3
-Project 1 - Group 3
 
 Idea: Analyzing Exercise Trends Across Different Cities
 
