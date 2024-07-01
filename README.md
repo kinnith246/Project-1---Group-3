@@ -8,10 +8,10 @@ Data Sources:
   Weather data: Open Weather API
 
 Hypothesis:
-  Hypothesize that exercise patterns vary based on location due to factors like climate, urban design (availability of parks, gyms), cultural norms, and socioeconomic status.
+  Hypothesize that exercise patterns vary based on location due to factors like climate, urban design (availability of parks, gyms), cultural norms, and socioeconomic status using Google FIT data for location data.
 
 Approach:
-  Data Collection: Obtain anonymized exercise data from a popular exercise app (if available), including location information.
+  Data Collection: Obtain anonymized exercise data from a popular exercise app (Google FIT), including location information.
 
 Data Analysis:
   Location Clustering: Use clustering algorithms to group cities or regions based on exercise patterns.
