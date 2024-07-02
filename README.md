@@ -1,28 +1,29 @@
 # Project-1---Group-3
 
-Idea: Analyzing Exercise Trends Across Different Cities
+Proposal: Analyzing Exercise Trends Across Different Cities
 
-Data Sources:
-  Exercise Tracking Apps: Google FIT and Google REST API
-  City Demographic and Geographic Data: Geoapify API
-  Weather data: Open Weather API
+Project Overview
+Project Name: Analyzing Exercise Trends Across Different Cities
+
+Team: Group 3
+
+Introduction
+We want to explore how climate, city design, culture, and socioeconomic status affect exercise habits in various cities.
+
+Objectives:
+Collect Data: Use Geoapify and Open Weather APIs to get data about city demographics, geography, and weather.
+Gather Exercise Data: Obtain anonymized exercise data from a popular exercise app.
+Group Cities: Use clustering methods to categorize cities based on exercise patterns.
+Analyze Correlations: Study the relationship between exercise habits and factors like climate, urban density, and socioeconomic status.
+Create Visuals: Develop visuals such as heatmaps and scatter plots to show our findings.
 
 Hypothesis:
-  Hypothesize that exercise patterns vary based on location due to factors like climate, urban design (availability of parks, gyms), cultural norms, and socioeconomic status using Google FIT data for location data.
-
-Approach:
-  Data Collection: Obtain anonymized exercise data from a popular exercise app (Google FIT), including location information.
-
-Data Analysis:
-  Location Clustering: Use clustering algorithms to group cities or regions based on exercise patterns.
-  Correlation Analysis: Explore correlations between factors such as climate (temperature, precipitation), urban density, socioeconomic indicators, and exercise frequency.
-  Visualization: Create visualizations such as heatmaps, scatter plots, or choropleth maps to illustrate the relationships found.
+We believe that exercise habits differ based on location due to factors like climate, city layout, culture, and socioeconomic conditions.
 
 Key Questions:
-  Do cities in warmer climates see higher overall levels of outdoor exercise?
-  Are there regional differences in exercise preferences (e.g., urban jogging vs. gym workouts)?
-  How does urban infrastructure (like bike lanes or public parks) correlate with exercise habits?
+Do warmer cities have more outdoor exercise?
+Are exercise preferences (e.g., jogging vs. gym workouts) different in various regions?
+How do city features (e.g., bike lanes, parks) impact exercise habits?
 
 Outcome:
-  Insights gained could inform urban planning decisions, health initiatives, or fitness industry strategies.
-  It could also lead to recommendations on how to promote healthier lifestyles based on regional characteristics.
+Our study could provide insights that help city planners, health initiatives, and the fitness industry encourage healthier lifestyles in different regions.
