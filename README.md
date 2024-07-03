@@ -1,29 +1,67 @@
 # Project-1---Group-3
 
-Proposal: Analyzing Exercise Trends Across Different Cities
+Proposal: Does having a Fitbit inspire people to meet the recommended exercise guidelines
 
 Project Overview
-Project Name: Analyzing Exercise Trends Across Different Cities
+Project Name: 
 
 Team: Group 3
 
 Introduction
-We want to explore how climate, city design, culture, and socioeconomic status affect exercise habits in various cities.
+With the introduction of fitness apps and gadget, 
+
 
 Objectives:
-Collect Data: Use Geoapify and Open Weather APIs to get data about city demographics, geography, and weather.
-Gather Exercise Data: Obtain anonymized exercise data from a popular exercise app.
-Group Cities: Use clustering methods to categorize cities based on exercise patterns.
-Analyze Correlations: Study the relationship between exercise habits and factors like climate, urban density, and socioeconomic status.
-Create Visuals: Develop visuals such as heatmaps and scatter plots to show our findings.
+Data Cleaning and Preparation
+1. Are there any missing or duplicate entries in the dataset? How can they be handled?
+2. How can you handle outliers in the dataset, especially in TotalSteps or Calories?
+3. Is there a need to normalize or standardize any columns for better analysis?
 
-Hypothesis:
-We believe that exercise habits differ based on location due to factors like climate, city layout, culture, and socioeconomic conditions.
+Activity and Distance Analysis
+1. What is the correlation between TotalSteps and TotalDistance?
+2. How does VeryActiveDistance compare to ModeratelyActiveDistance and LightActiveDistance on average?
+3. What is the distribution of TotalDistance across different levels of activity (VeryActiveDistance, ModeratelyActiveDistance, LightActiveDistance, SedentaryActiveDistance)?
+4. What percentage of total distance comes from TrackerDistance versus LoggedActivitiesDistance?
+
+
+Time-Based Analysis
+1. How do TotalSteps vary by day of the week?
+   -You may need to extract the day of the week from ActivityDate.
+2. What is the trend of TotalSteps over time?
+  - Plot TotalSteps over the range of ActivityDate.
+3. Is there a particular time period with higher VeryActiveMinutes compared to other periods?
+4. Timeseries of how their exercise varied throughout the month
+
+
+Calorie Analysis
+1. What is the relationship between TotalSteps and Calories burned?
+2. Which activity (Very Active, Fairly Active, Lightly Active, Sedentary) contributes most to calorie burn?
+3. What is the average number of calories burned per day?
+
+
+User Comparison (possibly answers will come out from analysis of other questions)
+1. How do different users (Id) compare in terms of TotalSteps and TotalDistance?
+2. Which user has the highest average VeryActiveMinutes?
+3. What is the distribution of SedentaryMinutes among users?
+
+
+Advanced Analysis
+1. Can you cluster users based on their activity patterns?
+  - Use clustering techniques like K-means to group users by their TotalSteps, VeryActiveMinutes, etc.
+2. Is there any seasonal trend in activity levels?
+  -You may need to extract the month from ActivityDate and analyze activity levels by month.
+3. How does activity level (e.g., TotalSteps, Calories) change before and after a specific event?
+  - If you have data on a specific event date, compare activity levels before and after the event.
+
+
+Visualization
+1. Create visualizations to show the distribution of TotalSteps among users.
+2. Plot Calories burned against VeryActiveMinutes to see the relationship.
+3. Visualize the average TotalSteps by day of the week.
+
 
 Key Questions:
-Do warmer cities have more outdoor exercise?
-Are exercise preferences (e.g., jogging vs. gym workouts) different in various regions?
-How do city features (e.g., bike lanes, parks) impact exercise habits?
+
 
 Outcome:
-Our study could provide insights that help city planners, health initiatives, and the fitness industry encourage healthier lifestyles in different regions.
+
