@@ -17,14 +17,14 @@ Data Cleaning and Preparation
 2. How can you handle outliers in the dataset, especially in TotalSteps or Calories?
 3. Is there a need to normalize or standardize any columns for better analysis?
 
-Activity and Distance Analysis
+# Activity and Distance Analysis (Ken)
 1. What is the correlation between TotalSteps and TotalDistance?
 2. How does VeryActiveDistance compare to ModeratelyActiveDistance and LightActiveDistance on average?
 3. What is the distribution of TotalDistance across different levels of activity (VeryActiveDistance, ModeratelyActiveDistance, LightActiveDistance, SedentaryActiveDistance)?
 4. What percentage of total distance comes from TrackerDistance versus LoggedActivitiesDistance?
 
 
-Time-Based Analysis
+# Time-Based Analysis (Cathy)
 1. How do TotalSteps vary by day of the week?
    -You may need to extract the day of the week from ActivityDate.
 2. What is the trend of TotalSteps over time?
@@ -33,19 +33,19 @@ Time-Based Analysis
 4. Timeseries of how their exercise varied throughout the month
 
 
-Calorie Analysis
+# Calorie Analysis (Sima)
 1. What is the relationship between TotalSteps and Calories burned?
 2. Which activity (Very Active, Fairly Active, Lightly Active, Sedentary) contributes most to calorie burn?
 3. What is the average number of calories burned per day?
 
 
-User Comparison (possibly answers will come out from analysis of other questions)
+# User Comparison (possibly answers will come out from analysis of other questions and change below questions a bit to cater for our analysis) (Aisling)
 1. How do different users (Id) compare in terms of TotalSteps and TotalDistance?
 2. Which user has the highest average VeryActiveMinutes?
 3. What is the distribution of SedentaryMinutes among users?
 
-
-Advanced Analysis
+# Advanced Analysis (if time permits, but some q's are a bit vague) (Aisling)
+Statitistical summaries and tests
 1. Can you cluster users based on their activity patterns?
   - Use clustering techniques like K-means to group users by their TotalSteps, VeryActiveMinutes, etc.
 2. Is there any seasonal trend in activity levels?
