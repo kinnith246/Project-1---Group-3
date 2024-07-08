@@ -39,7 +39,7 @@ Data Cleaning and Preparation
 3. What is the average number of calories burned per day?
 
 
-# User engagement with 10,000 steps marketting, and is 10,000 steps a good metric
+# User engagement with 10,000 steps marketting, and is 10,000 steps a good metric? (Aisling)
 1. How many entrees successfully achieved 10,000 steps or more per day?
 2. What percentage of individual users achieved 10,000 steps?
 3. What is the average steps completed?
