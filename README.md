@@ -39,12 +39,14 @@ Data Cleaning and Preparation
 3. What is the average number of calories burned per day?
 
 
-# User Comparison (possibly answers will come out from analysis of other questions and change below questions a bit to cater for our analysis) (Aisling)
-1. How do different users (Id) compare in terms of TotalSteps and TotalDistance?
-2. Which user has the highest average VeryActiveMinutes?
-3. What is the distribution of SedentaryMinutes among users?
+# User engagement with 10,000 steps marketting, and is 10,000 steps a good metric
+1. How many entrees successfully achieved 10,000 steps or more per day?
+2. What percentage of individual users achieved 10,000 steps?
+3. What is the average steps completed?
+4. How does each individuals average compare to 10,000 step goal?
+5. what is the relationship between those that met the 10,000 steps and those that achieved 30 minutes of moderate exercise?
 
-# Advanced Analysis (if time permits, but some q's are a bit vague) (Aisling)
+# Advanced Analysis (if time permits, but some q's are a bit vague)
 Statitistical summaries and tests
 1. Can you cluster users based on their activity patterns?
   - Use clustering techniques like K-means to group users by their TotalSteps, VeryActiveMinutes, etc.
