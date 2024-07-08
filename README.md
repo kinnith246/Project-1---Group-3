@@ -18,10 +18,9 @@ Data Cleaning and Preparation
 3. Is there a need to normalize or standardize any columns for better analysis?
 
 # Activity and Distance Analysis (Ken)
-1. What is the correlation between TotalSteps and TotalDistance?
-2. How does VeryActiveDistance compare to ModeratelyActiveDistance and LightActiveDistance on average?
-3. What is the distribution of TotalDistance across different levels of activity (VeryActiveDistance, ModeratelyActiveDistance, LightActiveDistance, SedentaryActiveDistance)?
-4. What percentage of total distance comes from TrackerDistance versus LoggedActivitiesDistance?
+1. What is the correlation between Active Distance and Active minutes across different activity levels?
+2. What is the distribution of TotalSteps against TotalActiveMinutes and how does it compare to TotalActive Distance vs. TotalActiveMinutes?
+3. Is there a significant difference in the average active distances (Light, Moderate, and Very Active) between the first 7 days and the last 7 days of the survey to see if users improved over the duration of the survey?
 
 
 # Time-Based Analysis (Cathy)
