@@ -35,7 +35,7 @@ Data Cleaning and Preparation
 # Calorie Analysis (Sima)
 1. What is the relationship between TotalSteps and Calories burned?
 2. Which activity (Very Active, Fairly Active, Lightly Active, Sedentary) contributes most to calorie burn?
-3. What is the average number of calories burned per day?
+3. What is the percentage of actvity levels based on activity minutes?
 
 
 # User engagement with 10,000 steps marketting, and is 10,000 steps a good metric? (Aisling)
