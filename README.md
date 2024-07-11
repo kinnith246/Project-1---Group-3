@@ -51,9 +51,8 @@ Statitistical summaries and tests
 1. How do minutes exercised vary by day of the week and specifically weekdays to weekends?
 This can be explored by randomly splitting the data into 2 independent groups. After establishing normality, attending to independence and using a Welch's t-test where variance equivalence was not established, can conduct an independent t-test to see if it is statistically significant that users engaged in exercise more on weekends.
 
-2. Is there a significant difference in the percentage of activity levels based on activity minutes?
-All p-values are very low (0.0000), suggesting strong evidence against the null hypothesis.
-This indicates significant relationships between each pair of activity metrics tested, such as TotalSteps vs TotalDistance, TotalSteps vs Calories, etc.
+2. What is the impact of different levels of physical activity (VeryActiveMinutes, FairlyActiveMinutes, LightlyActiveMinutes, SedentaryMinutes) and TotalSteps on calorie burn?
+we perform exploratory data analysis (EDA). Conduct simple linear regression with Calories as the dependent variable and TotalSteps as the predictor, followed by multiple regression including VeryActiveMinutes, FairlyActiveMinutes, LightlyActiveMinutes, and SedentaryMinutes. Evaluate the models, perform hypothesis testing to determine significance, and interpret the results, providing a concise report of findings and recommendations.
 
 3. Is there a significant difference in the average active distances (Light, Moderate, and Very Active) between the first 7 days and the last 7 days of the survey to see if users improved over the duration of the survey?
 This was tested with a t-test across the different activity levels and was found that the t-statistics were relatively low which showed there was no significant differences from the start to the end. Hence, within the time timeframe there was no improvement.
