@@ -59,7 +59,7 @@ Visualization
 1. Create visualizations to show the distribution of TotalSteps among users.
 2. Plot Calories burned against VeryActiveMinutes to see the relationship.
 3. Visualize the average TotalSteps by day of the week.
-
+4. Visualise total steps vs 10,000 step goal 
 
 Key Questions:
 
