@@ -1,6 +1,6 @@
 # Project-1---Group-3
-
-Proposal: Does having a Fitbit inspire people to meet the recommended exercise guidelines
+# Does Fitbit inspire users to exercise? 
+Proposal: Does having a Fitbit inspire people to meet the recommended exercise guidelines? Does it inspire people to exercise more than the general public? 
 
 Project Overview
 Project Name: 
