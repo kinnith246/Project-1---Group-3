@@ -72,6 +72,7 @@ Visualization
 Outcome:
 Overall,
 We found that users were more inclined to work out on the weekend, suggesting Fitbit should work on weekday user engagement and encouragement, as well as investigate why this is the case. 
+
 Fairly active to very active minutes and steps correlate to higher calorie burn, and are the recommended daily activities of Fitbit, with a focus on the 10,000 step goal. A higher percentage of users met daily exercise guidelines by minutes than the average population. However, when using the step count as a metric for activity, the levels of activity appeared similar to the general population. Additionally we found that user’s didn’t improve their activity over time. 
 
 Therefore, we conclude that Fitbit does inspire people to meet exercise guidelines, but further inspiration is required from Fitbit to encourage users to maintain higher levels of activity, or to be improving over time. This would differentiate Fitbit users more clearly from the general public, and enhance the quality of the application service. 
