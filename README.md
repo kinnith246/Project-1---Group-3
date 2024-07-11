@@ -47,6 +47,7 @@ Data Cleaning and Preparation
 
 # Advanced Analysis
 Statitistical summaries and tests
+
 2. Is there a significant difference in the percentage of activity levels based on activity minutes?
 All p-values are very low (0.0000), suggesting strong evidence against the null hypothesis.
 This indicates significant relationships between each pair of activity metrics tested, such as TotalSteps vs TotalDistance, TotalSteps vs Calories, etc.
