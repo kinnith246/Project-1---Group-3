@@ -11,8 +11,7 @@ Project members:
 - Kenneth Le
 
 Introduction
-With the introduction of fitness apps and gadget, 
-
+With the introduction of fitness apps and gadget, Fitbit trackers are ubiquitous in society today, tracking sensitive information such as age gender and geolocation which in the wrong hands can be used maliciously. Need to ensure to seek de-identified user data responsibly and carefully.
 
 Objectives:
 Data Cleaning and Preparation
@@ -24,7 +23,6 @@ Data Cleaning and Preparation
 1. What is the correlation between Active Distance and Active minutes across different activity levels?
 2. What is the distribution of TotalSteps against TotalActiveMinutes and how does it compare to TotalActive Distance vs. TotalActiveMinutes?
 3. Is there a significant difference in the average active distances (Light, Moderate, and Very Active) between the first 7 days and the last 7 days of the survey to see if users improved over the duration of the survey?
-
 
 # Time-Based Analysis (Cathy)
 1. How do minutes exercised vary by day of the week and specifically weekdays to weekends?
