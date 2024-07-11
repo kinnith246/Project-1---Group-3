@@ -11,10 +11,10 @@ Project members:
 - Aisling Geraghty
 - Kenneth Le
 
-Introduction
+# Introduction
 With the introduction of fitness apps and gadget, Fitbit trackers are ubiquitous in society today, tracking sensitive information such as age gender and geolocation which in the wrong hands can be used maliciously. Need to ensure to seek de-identified user data responsibly and carefully.
 
-Objectives:
+# Objectives:
 Data Cleaning and Preparation
 1. Are there any missing or duplicate entries in the dataset? How can they be handled?
 2. How can you handle outliers in the dataset, especially in TotalSteps or Calories?
