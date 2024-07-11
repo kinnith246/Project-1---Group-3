@@ -45,14 +45,11 @@ Data Cleaning and Preparation
 4. How does each individuals average compare to 10,000 step goal?
 5. what is the relationship between those that met the 10,000 steps and those that achieved 30 minutes of moderate exercise?
 
-# Advanced Analysis (if time permits, but some q's are a bit vague)
+# Advanced Analysis
 Statitistical summaries and tests
-1. Can you cluster users based on their activity patterns?
-  - Use clustering techniques like K-means to group users by their TotalSteps, VeryActiveMinutes, etc.
-2. Is there any seasonal trend in activity levels?
-  -You may need to extract the month from ActivityDate and analyze activity levels by month.
-3. How does activity level (e.g., TotalSteps, Calories) change before and after a specific event?
-  - If you have data on a specific event date, compare activity levels before and after the event.
+
+4. What is the distribution of activity levels by step?
+This can be examined by comparing to an even distribution using a Chi-squared test. If we then do this for the Australian Bureau of statistics data, we can then see if our user activity levels are comparable to the Australian general population. 
 
 
 Visualization
