@@ -55,7 +55,7 @@ This can be explored by randomly splitting the data into 2 independent groups. A
 we perform exploratory data analysis (EDA). Conduct simple linear regression with Calories as the dependent variable and TotalSteps as the predictor, followed by multiple regression including VeryActiveMinutes, FairlyActiveMinutes, LightlyActiveMinutes, and SedentaryMinutes. Evaluate the models, perform hypothesis testing to determine significance, and interpret the results, providing a concise report of findings and recommendations.
 
 3. Is there a significant difference in the average active distances (Light, Moderate, and Very Active) between the first 7 days and the last 7 days of the survey to see if users improved over the duration of the survey?
-This was tested with a t-test across the different activity levels and was found that the t-statistics were relatively low which showed there was no significant differences from the start to the end. Hence, within the time timeframe there was no improvement.
+This will be tested with a t-test across the different activity levels to find if there was any significant differences from the start to the end to see if there are any improvements.
 
 4. What is the distribution of activity levels by step?
 This can be examined by comparing to an even distribution using a Chi-squared test. If we then do this for the Australian Bureau of statistics data, we can then see if our user activity levels are comparable to the Australian general population. 
