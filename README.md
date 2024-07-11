@@ -35,7 +35,7 @@ Data Cleaning and Preparation
 # Calorie Analysis (Sima)
 1. What is the relationship between TotalSteps and Calories burned?
 2. Which activity (Very Active, Fairly Active, Lightly Active, Sedentary) contributes most to calorie burn?
-3. What is the percentage of actvity levels based on activity minutes?
+3. Is there a significant difference in the percentage of activity levels based on activity minutes?
 
 
 # User engagement with 10,000 steps marketting, and is 10,000 steps a good metric? (Aisling)
@@ -47,6 +47,9 @@ Data Cleaning and Preparation
 
 # Advanced Analysis
 Statitistical summaries and tests
+2. Is there a significant difference in the percentage of activity levels based on activity minutes?
+All p-values are very low (0.0000), suggesting strong evidence against the null hypothesis.
+This indicates significant relationships between each pair of activity metrics tested, such as TotalSteps vs TotalDistance, TotalSteps vs Calories, etc.
 
 3. Is there a significant difference in the average active distances (Light, Moderate, and Very Active) between the first 7 days and the last 7 days of the survey to see if users improved over the duration of the survey?
 This was tested with a t-test across the different activity levels and was found that the t-statistics were relatively low which showed there was no significant differences from the start to the end. Hence, within the time timeframe there was no improvement.
