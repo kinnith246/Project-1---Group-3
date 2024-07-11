@@ -1,15 +1,18 @@
 # Project-1---Group-3
-
-Proposal: Does having a Fitbit inspire people to meet the recommended exercise guidelines
-
-Project Overview
-Project Name: 
+# MAIN GROUP CODE file name: "Group 3 NB.ipynb" found in Dataset
+# Does Fitbit inspire users to exercise? 
+Proposal: Does having a Fitbit inspire people to meet the recommended exercise guidelines? Does it inspire people to exercise more than the general public? 
 
 Team: Group 3
 
-Introduction
-With the introduction of fitness apps and gadget, 
+Project members:
+- Cathy Matthee
+- Sima Moghadam
+- Aisling Geraghty
+- Kenneth Le
 
+Introduction
+With the introduction of fitness apps and gadget, Fitbit trackers are ubiquitous in society today, tracking sensitive information such as age gender and geolocation which in the wrong hands can be used maliciously. Need to ensure to seek de-identified user data responsibly and carefully.
 
 Objectives:
 Data Cleaning and Preparation
@@ -22,14 +25,10 @@ Data Cleaning and Preparation
 2. What is the distribution of TotalSteps against TotalActiveMinutes and how does it compare to TotalActive Distance vs. TotalActiveMinutes?
 3. Is there a significant difference in the average active distances (Light, Moderate, and Very Active) between the first 7 days and the last 7 days of the survey to see if users improved over the duration of the survey?
 
-
 # Time-Based Analysis (Cathy)
-1. How do TotalSteps vary by day of the week?
-   -You may need to extract the day of the week from ActivityDate.
-2. What is the trend of TotalSteps over time?
-  - Plot TotalSteps over the range of ActivityDate.
-3. Is there a particular time period with higher VeryActiveMinutes compared to other periods?
-4. Timeseries of how their exercise varied throughout the month
+1. How do minutes exercised vary by day of the week and specifically weekdays to weekends?
+2. What is the trend of minutes of activity over the course of the study for single Fitbit users VS. multiple users?
+3. What levels of exercise contributes to the minimum 150 minutes recommended guideline? And how does this compare to the Australian population data according the ABS?
 
 
 # Calorie Analysis (Sima)
@@ -43,10 +42,15 @@ Data Cleaning and Preparation
 2. What percentage of individual users achieved 10,000 steps?
 3. What is the average steps completed?
 4. How does each individuals average compare to 10,000 step goal?
-5. what is the relationship between those that met the 10,000 steps and those that achieved 30 minutes of moderate exercise?
+5. What are the activity levels like with step brackets?
+6. What is the distribution of activity levels by steps, and how does this compare to the general population in Australia?
 
 # Advanced Analysis 
 Statitistical summaries and tests
+
+1. How do minutes exercised vary by day of the week and specifically weekdays to weekends?
+This can be explored by randomly splitting the data into 2 independent groups. After establishing normality, attending to independence and using a Welch's t-test where variance equivalence was not established, can conduct an independent t-test to see if it is statistically significant that users engaged in exercise more on weekends.
+
 2. Is there a significant difference in the percentage of activity levels based on activity minutes?
 All p-values are very low (0.0000), suggesting strong evidence against the null hypothesis.
 This indicates significant relationships between each pair of activity metrics tested, such as TotalSteps vs TotalDistance, TotalSteps vs Calories, etc.
@@ -64,16 +68,17 @@ Visualization
 3. Visualize the average TotalSteps by day of the week.
 4. Visualise total steps vs 10,000 step goal 
 
-Key Questions:
-
 
 Outcome:
+Determine whether fitbit inspires users to exercise: 
+Investigate this with the sub-questions: How do fitbit users compare to the general public, how they vary compared to one another, when are they more likely to exercise, whether they improve over time, and do they meet their daily exercise guidelines?
+Generate answers that provide advice to Fitbit to improve their product and evaluate the limitations of the data and further studies that could be done. 
 
 
 References:
 https://www.kaggle.com/datasets/arashnic/fitbit
 https://www.kaggle.com/datasets/mjazzy/fitbit-fitness-bellabeat-high-tech-company
 https://www.abs.gov.au/ausstats/abs@.nsf/Lookup/4156.0.55.001main+features4Nov%202013
-
+https://www.10000steps.org.au/articles/healthy-lifestyles/counting-steps/
 
 
