@@ -42,7 +42,8 @@ Data Cleaning and Preparation
 2. What percentage of individual users achieved 10,000 steps?
 3. What is the average steps completed?
 4. How does each individuals average compare to 10,000 step goal?
-5. what is the relationship between those that met the 10,000 steps and those that achieved 30 minutes of moderate exercise?
+5. What are the activity levels like with step brackets?
+6. What is the distribution of activity levels by steps, and how does this compare to the general population in Australia?
 
 # Advanced Analysis
 Statitistical summaries and tests
@@ -84,6 +85,6 @@ References:
 https://www.kaggle.com/datasets/arashnic/fitbit
 https://www.kaggle.com/datasets/mjazzy/fitbit-fitness-bellabeat-high-tech-company
 https://www.abs.gov.au/ausstats/abs@.nsf/Lookup/4156.0.55.001main+features4Nov%202013
-
+https://www.10000steps.org.au/articles/healthy-lifestyles/counting-steps/
 
 
