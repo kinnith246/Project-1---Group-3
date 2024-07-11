@@ -5,10 +5,10 @@ Proposal: Does having a Fitbit inspire people to meet the recommended exercise g
 Team: Group 3
 
 Project members:
-Cathy Matthee
-Sima Moghadam
-Aisling Geraghty
-Kenneth Le
+- Cathy Matthee
+- Sima Moghadam
+- Aisling Geraghty
+- Kenneth Le
 
 Introduction
 With the introduction of fitness apps and gadget, 
