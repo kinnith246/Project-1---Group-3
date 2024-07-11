@@ -2,10 +2,13 @@
 # Does Fitbit inspire users to exercise? 
 Proposal: Does having a Fitbit inspire people to meet the recommended exercise guidelines? Does it inspire people to exercise more than the general public? 
 
-Project Overview
-Project Name: 
-
 Team: Group 3
+
+Project members:
+Cathy Matthee
+Sima Moghadam
+Aisling Geraghty
+Kenneth Le
 
 Introduction
 With the introduction of fitness apps and gadget, 
