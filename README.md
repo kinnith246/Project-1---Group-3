@@ -27,12 +27,9 @@ Data Cleaning and Preparation
 
 
 # Time-Based Analysis (Cathy)
-1. How do TotalSteps vary by day of the week?
-   -You may need to extract the day of the week from ActivityDate.
-2. What is the trend of TotalSteps over time?
-  - Plot TotalSteps over the range of ActivityDate.
-3. Is there a particular time period with higher VeryActiveMinutes compared to other periods?
-4. Timeseries of how their exercise varied throughout the month
+1. How do minutes exercised vary by day of the week and specifically weekdays to weekends?
+2. What is the trend of minutes of activity over the course of the study for single Fitbit users VS. multiple users?
+3. What levels of exercise contributes to the minimum 150 minutes recommended guideline? And how does this compare to the Australian population data according the ABS?
 
 
 # Calorie Analysis (Sima)
@@ -50,6 +47,9 @@ Data Cleaning and Preparation
 
 # Advanced Analysis
 Statitistical summaries and tests
+
+1. How do minutes exercised vary by day of the week and specifically weekdays to weekends?
+This can be explored by randomly splitting the data into 2 independent groups. After establishing normality, attending to independence and using a Welch's t-test where variance equivalence was not established, can conduct an independent t-test to see if it is statistically significant that users engaged in exercise more on weekends.
 
 2. Is there a significant difference in the percentage of activity levels based on activity minutes?
 All p-values are very low (0.0000), suggesting strong evidence against the null hypothesis.
