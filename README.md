@@ -1,5 +1,5 @@
 # Project-1---Group-3
-# MAIN GROUP CODE file name: "Group 3 NB.ipynb"
+# MAIN GROUP CODE file name: "Group 3 NB.ipynb" found in Dataset
 # Does Fitbit inspire users to exercise? 
 Proposal: Does having a Fitbit inspire people to meet the recommended exercise guidelines? Does it inspire people to exercise more than the general public? 
 
@@ -70,16 +70,10 @@ Visualization
 
 
 Outcome:
-Overall,
-We found that users were more inclined to work out on the weekend, suggesting Fitbit should work on weekday user engagement and encouragement, as well as investigate why this is the case. 
+Determine whether fitbit inspires users to exercise: 
+Investigate this with the sub-questions: How do fitbit users compare to the general public, how they vary compared to one another, when are they more likely to exercise, whether they improve over time, and do they meet their daily exercise guidelines?
+Generate answers that provide advice to Fitbit to improve their product and evaluate the limitations of the data and further studies that could be done. 
 
-Fairly active to very active minutes and steps correlate to higher calorie burn, and are the recommended daily activities of Fitbit, with a focus on the 10,000 step goal. A higher percentage of users met daily exercise guidelines by minutes than the average population. However, when using the step count as a metric for activity, the levels of activity appeared similar to the general population. Additionally we found that user’s didn’t improve their activity over time. 
-
-Therefore, we conclude that Fitbit does inspire people to meet exercise guidelines, but further inspiration is required from Fitbit to encourage users to maintain higher levels of activity, or to be improving over time. This would differentiate Fitbit users more clearly from the general public, and enhance the quality of the application service. 
-
-We suggest that Fitbit reframe their use of goals and consider taking a personal approach for users. A personal approach would take into account the user’s initial fitness, and then focus on time-bound goals that individuals can aspire to. 
-
-Next steps: From here, we could investigate this further with a stronger dataset by collecting our own research population data. We could do this using Fitbit web API with users’ express consent, so that we can look at more variables that are relevant to improving the Fitbit product. 
 
 References:
 https://www.kaggle.com/datasets/arashnic/fitbit
