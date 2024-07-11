@@ -48,6 +48,9 @@ Data Cleaning and Preparation
 # Advanced Analysis
 Statitistical summaries and tests
 
+3. Is there a significant difference in the average active distances (Light, Moderate, and Very Active) between the first 7 days and the last 7 days of the survey to see if users improved over the duration of the survey?
+This was tested with a t-test across the different activity levels and was found that the t-statistics were relatively low which showed there was no significant differences from the start to the end. Hence, within the time timeframe there was no improvement.
+
 4. What is the distribution of activity levels by step?
 This can be examined by comparing to an even distribution using a Chi-squared test. If we then do this for the Australian Bureau of statistics data, we can then see if our user activity levels are comparable to the Australian general population. 
 
