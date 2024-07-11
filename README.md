@@ -45,7 +45,7 @@ Data Cleaning and Preparation
 4. How does each individuals average compare to 10,000 step goal?
 5. what is the relationship between those that met the 10,000 steps and those that achieved 30 minutes of moderate exercise?
 
-# Advanced Analysis
+# Advanced Analysis 
 Statitistical summaries and tests
 2. Is there a significant difference in the percentage of activity levels based on activity minutes?
 All p-values are very low (0.0000), suggesting strong evidence against the null hypothesis.
